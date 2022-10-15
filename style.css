@@ -121,7 +121,7 @@ label:hover{
     justify-content: center;
     align-items: center;
 }
-.image i{
+.image img{
     width: 50%;
     object-fit: cover;
 }
@@ -288,7 +288,7 @@ label:hover{
     .boxconteudo:hover{
         border-radius: 20px;
     }
-    .image i{
+    .image img{
         width: 70%;
         object-fit: cover;
     }
